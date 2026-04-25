@@ -1,1 +1,44 @@
-
+{
+  "last_updated": "2026-04-25",
+  "pantry": {
+    "proteins": [
+      "chicken",
+      "beef",
+      "pork",
+      "clam"
+    ],
+    "vegetables": [
+      "cabbage",
+      "spring onion",
+      "onion",
+      "garlic"
+    ],
+    "carbs": [
+      "rice",
+      "pasta"
+    ],
+    "condiments_and_sauces": [
+      "miso",
+      "soy sauce",
+      "mirin",
+      "white wine",
+      "japanese cooking wine",
+      "vinegar",
+      "char siu sauce",
+      "mustard",
+      "heinz baked beans"
+    ],
+    "dry_spices": [
+      "paprika powder",
+      "cumin powder",
+      "cinnamon powder",
+      "salt",
+      "sugar"
+    ],
+    "dried_and_frozen": [
+      "dried chinese mini shrimps",
+      "dried shiitake mushrooms",
+      "frozen edamame"
+    ]
+  }
+}
